@@ -1,4 +1,4 @@
-# Nützliche Ressourcen und Tools
+# Nützliche Tools
 
 Hier finden Sie eine Sammlung von nützlichen Ressourcen und Tools, die Ihnen bei der Entwicklung und beim Testen Ihrer Projekte helfen können. Jede Ressource ist verlinkt und kurz beschrieben.
 
