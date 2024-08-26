@@ -62,6 +62,10 @@
 ## 13. D3- dynamic visualizations 
 
 - **Website:** https://d3js.org/
-- **Beschreibung:** Eine website mit vorgefertigten Visualisierungen zur eigenen nutzung. 
+- **Beschreibung:** Eine website mit vorgefertigten Visualisierungen zur eigenen nutzung.
+
+## 14. PHP funktion list
+
+- **Website:** https://www.php.net/manual-lookup.php?pattern=try&scope=quickref
 
 
