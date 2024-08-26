@@ -51,6 +51,8 @@
 - **Website:** [Open Web UI auf GitHub](https://github.com/open-webui/open-webui)
 - **Beschreibung:** Ein Open-Source-Projekt, das eine webbasierte Benutzeroberfläche bietet. Dieses Repository enthält den Quellcode und die Dokumentation für die Entwicklung und Nutzung der UI-Komponenten.
 
----
+## 11. JSON to JSON Schema
 
-Diese Ressourcen sind eine wertvolle Unterstützung bei der täglichen Arbeit als Entwickler. Besuchen Sie die Websites, um mehr zu erfahren und die Tools direkt in Ihren Projekten zu nutzen.
+- **Website:** https://transform.tools/json-to-json-schema
+
+
