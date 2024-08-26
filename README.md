@@ -55,4 +55,13 @@
 
 - **Website:** https://transform.tools/json-to-json-schema
 
+## 12. User Story Generator 
+
+- **Website:** https://easyretro.io/tools/user-story-generator/
+
+## D3- dynamic visualizations 
+
+- **Website:** https://d3js.org/
+- **Beschreibung:** Eine website mit vorgefertigten Visualisierungen zur eigenen nutzung. 
+
 
