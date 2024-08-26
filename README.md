@@ -59,7 +59,7 @@
 
 - **Website:** https://easyretro.io/tools/user-story-generator/
 
-## D3- dynamic visualizations 
+## 13. D3- dynamic visualizations 
 
 - **Website:** https://d3js.org/
 - **Beschreibung:** Eine website mit vorgefertigten Visualisierungen zur eigenen nutzung. 
